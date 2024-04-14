@@ -1,8 +1,7 @@
-# React + Vite
+## Task 3 React Crypto App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Description: 
+Build a React application to fetch real-time cryptocurrency data in JSON format and enable users to search for coins by name.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![alt text](../Output/cryptoApp.jpg)
+![alt text](../Output/cryptoApp1.jpg)
